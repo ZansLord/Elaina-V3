@@ -11,13 +11,13 @@ Script ini gratis untuk semua orang, bukan untuk Dijual. Jika dijual neraka menu
 > **Warning**: Script Ini Tidak Support Qr Untuk Saat Ini, Jadi Kalian Bisa Menggunakan Replit Untuk Mengambil Session Atau
 Memakai Sc Lain Untuk Mengambil Session Atau Kalau Kalian Masih pengguna Satu Sesi Bisa Pakai main.js.bak yg sudah saya sediakan
 
-<h1 align="center">RullBOT - MD</h1>
+<h1 align="center">ELAINA - MD</h1>
 <p align="center">
-  <a href="https://github.com/RullDev"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Rull+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+RullSenpai;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
+  <a href="https://github.com/ZansLord"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Elaina+Multi+Device;Base+ori+by+BochilGaming;Recode+By+ZansLord;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
 </p>
 
 <p align="center">
- <a href="#"><img title="RullBOT" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+ <a href="#"><img title="ELAINA" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/RullDev"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ImYanXiao-green.svg?style=for-the-badge&logo=github"></a>
@@ -26,7 +26,7 @@ Memakai Sc Lain Untuk Mengambil Session Atau Kalau Kalian Masih pengguna Satu Se
 
 ## ```Connect With Me 📞``` 
 
-## ```Whatsapp``` <a href="https://wa.me/6287753812675"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
+## ```Whatsapp``` <a href="https://wa.me/6285869074622"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
 [![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6287753812675) 
 ---------
 
@@ -133,4 +133,4 @@ Set prefix
 * [`Papah-Chan`](https://github.com/FahriAdison) 
 
 ## ```Recode By ✏️```
-[![KhrlMstfa](https://telegra.ph/file/8a1c663c84751c10baf65.jpg?size=20)](https://github.com/RullDev)
+[![ZansLord](https://telegra.ph/file/8a1c663c84751c10baf65.jpg?size=20)](https://github.com/ZansLord)
